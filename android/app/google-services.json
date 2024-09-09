@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "80880340042",
+    "project_id": "bengalaapp-41ddc",
+    "storage_bucket": "bengalaapp-41ddc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80880340042:android:e7632654b957584088eab3",
+        "android_client_info": {
+          "package_name": "com.bengala.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZILTxVtJLeMDPD_pR-fzV_jBZI2-NcGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80880340042:android:0e1b9d99cc36f31188eab3",
+        "android_client_info": {
+          "package_name": "com.example.bengalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZILTxVtJLeMDPD_pR-fzV_jBZI2-NcGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
